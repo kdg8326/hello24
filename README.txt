@@ -10,7 +10,7 @@ git add README.txt
 git commit -m "[파일생성] README.txt"
 
 #원격 저장소 연결
-git remote add origin https://github.com/solgitsx/Hello24.git
+git remote add origin https://github.com/kdg8326/hello24.git
 
 #원격 저장소 확인
 git remote -v
